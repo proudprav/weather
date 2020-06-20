@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="No_Title">No Title Found</string>
+    <string name="NO_URl">No Url Found</string>
+</resources>
